@@ -1,0 +1,12 @@
+Error_Pair,Count
+Threat -> Extortion,15
+Threat -> Other_Bullying,12
+Other_Bullying -> Threat,11
+Other_Bullying -> Extortion,11
+Extortion -> Threat,10
+Other_Bullying -> Workplace_Bullying,7
+Extortion -> Other_Bullying,6
+Extortion -> Workplace_Bullying,6
+Workplace_Bullying -> Other_Bullying,4
+Threat -> Workplace_Bullying,4
+Workplace_Bullying -> Extortion,1

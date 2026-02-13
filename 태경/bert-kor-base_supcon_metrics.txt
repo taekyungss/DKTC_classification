@@ -1,0 +1,1 @@
+Epoch	T_Loss	T_Acc	T_F1	V_Loss	V_Acc	V_F1	T_F1_Threat	T_F1_Extortion	T_F1_Workplace_Bullying	T_F1_Other_Bullying	T_F1_Normal	V_F1_Threat	V_F1_Extortion	V_F1_Workplace_Bullying	V_F1_Other_Bullying	V_F1_Normal
